@@ -4,3 +4,11 @@ body{
     color: deepskyblue;
     
 }
+
+div{
+    width: 30rem;
+    height: 30rem;
+    background-color: deeppink;
+    border: 10px solid deepskyblue;
+    border-radius: 100%;
+}
