@@ -4,6 +4,10 @@ body{
     
     
 }
+#cabecera{
+    color: red;
+    background-color: #33A;
+}
 
 /* div{
     width: 30rem;
